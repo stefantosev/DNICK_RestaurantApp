@@ -14,3 +14,11 @@
 
 - migracii: python manage.py makemigrations
 	  python manage.py migrate
+
+# Cekori za kreiranje project
+	1.django-admin [projectName]  -> kreiranje na obicen proekt
+	2.biranje na enivronment (ako ne ti e namesten kako so treba)
+	3.python manage.py [projectName so views]
+	4.python manage.py runserver
+	5.python manage.py migrate -> prven ova da napravi user model i views za admin panel
+	6.python manage.py createsuperuser
