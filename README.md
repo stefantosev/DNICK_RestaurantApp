@@ -16,7 +16,7 @@
 	  python manage.py migrate
 
 # Cekori za kreiranje project
-	django-admin [projectName]  -> kreiranje na obicen proekt
+	1.django-admin startproject [projectName]  -> kreiranje na obicen proekt
 	2.biranje na enivronment (ako ne ti e namesten kako so treba)
 	3.python manage.py [projectName so views]
 	4.python manage.py runserver
